@@ -1,11 +1,12 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'soul',
+    title: '灵魂容器 - 多重人格',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: '美国史上第一位犯下重罪，结果却获判无罪的嫌犯，因为他是一位多重人格分裂者。他体内的人格可以互相交谈、下棋，互相控制对方的行为。 ------ 《24比利》' },
+      { hid: 'keywords', name: 'keywords', content: '灵魂容器,自闭症患者,24个比利,24比利,多重人格分裂,多重人格,丹尼尔·凯斯' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
